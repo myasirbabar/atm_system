@@ -17,7 +17,8 @@ Console Based ATM System built for Customers and Admin.
       - Transfer Cash
       - View Balance 
       - View Reports by Amount or by date 
- 
+      
+ - All Passwords and Login are encrypted then stored in DataBank. 
 
  ---------------
 <a href="https://www.linkedin.com/in/myb1">
