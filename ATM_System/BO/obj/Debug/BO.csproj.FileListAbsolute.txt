@@ -1,0 +1,6 @@
+E:\IT\Semester-6\EAD\ATM_System\BO\bin\Debug\BO.dll
+E:\IT\Semester-6\EAD\ATM_System\BO\bin\Debug\BO.pdb
+E:\IT\Semester-6\EAD\ATM_System\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+E:\IT\Semester-6\EAD\ATM_System\BO\obj\Debug\BO.dll
+E:\IT\Semester-6\EAD\ATM_System\BO\obj\Debug\BO.pdb
+E:\IT\Semester-6\EAD\ATM_System\BO\obj\Debug\BO.csprojAssemblyReference.cache

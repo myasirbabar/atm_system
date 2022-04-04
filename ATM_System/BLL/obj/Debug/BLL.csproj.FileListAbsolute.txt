@@ -1,0 +1,11 @@
+E:\IT\Semester-6\EAD\ATM_System\BLL\bin\Debug\BLL.dll
+E:\IT\Semester-6\EAD\ATM_System\BLL\bin\Debug\BLL.pdb
+E:\IT\Semester-6\EAD\ATM_System\BLL\bin\Debug\BO.dll
+E:\IT\Semester-6\EAD\ATM_System\BLL\bin\Debug\DAL.dll
+E:\IT\Semester-6\EAD\ATM_System\BLL\bin\Debug\BO.pdb
+E:\IT\Semester-6\EAD\ATM_System\BLL\bin\Debug\DAL.pdb
+E:\IT\Semester-6\EAD\ATM_System\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\IT\Semester-6\EAD\ATM_System\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\IT\Semester-6\EAD\ATM_System\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\IT\Semester-6\EAD\ATM_System\BLL\obj\Debug\BLL.dll
+E:\IT\Semester-6\EAD\ATM_System\BLL\obj\Debug\BLL.pdb

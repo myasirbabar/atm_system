@@ -1,0 +1,16 @@
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\bin\Debug\ATM_System.exe
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\bin\Debug\BLL.dll
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\bin\Debug\BO.dll
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\bin\Debug\DAL.dll
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\bin\Debug\View.dll
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\bin\Debug\BLL.pdb
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\bin\Debug\BO.pdb
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\bin\Debug\DAL.pdb
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\bin\Debug\View.pdb
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\obj\Debug\ATM_System.csprojAssemblyReference.cache
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\obj\Debug\ATM_System.csproj.CoreCompileInputs.cache
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\obj\Debug\ATM_System.exe
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\obj\Debug\ATM_System.pdb
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\bin\Debug\ATM_System.exe.config
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\bin\Debug\ATM_System.pdb
+E:\IT\Semester-6\EAD\ATM_System\ATM_System\obj\Debug\ATM_System.csproj.CopyComplete
